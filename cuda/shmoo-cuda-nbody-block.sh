@@ -1,3 +1,5 @@
+#!/bin/bash
+
 SRC=nbody-block.cu
 EXE=nbody-block
 

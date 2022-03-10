@@ -1,3 +1,5 @@
+#!/bin/bash
+
 SRC=nbody-orig.cu
 EXE=nbody-orig
 

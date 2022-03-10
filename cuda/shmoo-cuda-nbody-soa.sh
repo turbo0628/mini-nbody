@@ -1,3 +1,5 @@
+#!/bin/bash
+
 SRC=nbody-soa.cu
 EXE=nbody-soa
 

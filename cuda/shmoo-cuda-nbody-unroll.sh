@@ -1,3 +1,5 @@
+#!/bin/bash
+
 SRC=nbody-unroll.cu
 EXE=nbody-unroll
 
